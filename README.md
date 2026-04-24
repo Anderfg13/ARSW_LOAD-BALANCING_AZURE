@@ -1,6 +1,14 @@
 ### Escuela Colombiana de Ingeniería
 ### Arquitecturas de Software - ARSW
 
+## DocumentoS
+Documento principal: https://docs.google.com/document/d/1PBO6DJUhWz8eyUBO6jZK-Hhh4QBNqUWO/edit?usp=sharing&ouid=115741825330759631999&rtpof=true&sd=true
+(en este documento dejamos las imagenes mas representativas pero el proceso completo se encuenta en los siguientes documentos)
+
+#Recopilacion fotos procedimiento
+Parte 1: https://docs.google.com/document/d/1wjIk26j3cKBkf2dPbmKkvWif_3vwOjGr/edit?usp=sharing&ouid=115741825330759631999&rtpof=true&sd=true
+Parte 2: https://docs.google.com/document/d/1LsYEiVCx7jGA2PGLknXfqDIc0ulFtcQc/edit?usp=sharing&ouid=115741825330759631999&rtpof=true&sd=true
+
 ## Escalamiento en Azure con Maquinas Virtuales, Sacale Sets y Service Plans
 
 ### Dependencias
